@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Wayne</h1>
 <h3 align="center">AI & Software Developer | Building WhatsApp Chatbots, AI/ML Solutions, and Web & Mobile Applications to Transform Businesses</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wayneleislypm" alt="wayneleislypm" /></a> </p>
+- 🌱 I’m currently learning **Laravel**
 
-<p align="left"> <a href="https://twitter.com/wayneleislypm" target="blank"><img src="https://img.shields.io/twitter/follow/wayneleislypm?logo=twitter&style=for-the-badge" alt="wayneleislypm" /></a> </p>
+- 💬 Ask me about **Web, Mobileand Chatbot Development, AI & ML**
 
 - 📫 How to reach me **pwmusdproject@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wayneleislypm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wayneleislypm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wayneleislypm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wayneleislypm" height="30" width="40" /></a>
 <a href="https://fb.com/wayneleislypm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wayneleislypm" height="30" width="40" /></a>
 <a href="https://instagram.com/wayneleislypm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wayneleislypm" height="30" width="40" /></a>
