@@ -8,7 +8,7 @@
 - 💬 Ask me about **Web, Mobile & Chatbot Development, AI/ML, and Cloud Solutions**  
 - 🛠️ Passionate about solving real-world problems through **automation and intelligent systems**  
 - 🎯 Goal-driven: always learning, building, and creating solutions that impact businesses  
-- 📫 Reach me at **pwmusdproject@gmail.com**
+- 📫 Reach me at **pwmdevelopers@gmail.com**
 
 ---
 
