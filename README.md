@@ -3,12 +3,14 @@
 
 ---
 
-### 🚀 About Me  
-- 🌱 I’m currently expanding my skills in **Laravel**  
-- 💬 Ask me about **Web, Mobile & Chatbot Development, AI/ML, and Cloud Solutions**  
-- 🛠️ Passionate about solving real-world problems through **automation and intelligent systems**  
-- 🎯 Goal-driven: always learning, building, and creating solutions that impact businesses  
+
+### 🚀 About Me
+- 🌱 Currently exploring **Laravel, Cloud Computing, System Architecture, and AI Technologies**
+- 💬 Ask me about **Software Development, Mobile Applications, AI/ML, APIs, and WhatsApp Chatbots**
+- 🛠️ Passionate about building **intelligent systems, automation solutions, and scalable digital products**
+- 🎯 Dedicated to creating **technology that solves real-world challenges and delivers business value**
 - 📫 Reach me at **pwmdevelopers@gmail.com**
+
 
 ---
 
